@@ -87,6 +87,6 @@ You can set these variables in the script or export them in your shell session.
 
 For questions or support, please contact:
 
-- **Maintainer**: [Your Name](mailto:emeka_aws.devops@protonmail.com)
+- **Maintainer**: [Chukwuemeka Ezeobi](mailto:emeka_aws.devops@protonmail.com)
 - **Project Repository**: [https://github.com/d-nexus081185/SHELL-Remote-Execution-Project.git]
 
